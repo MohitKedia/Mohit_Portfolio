@@ -2,7 +2,7 @@
 
 *Analyze the effectiveness of Different Marketing channels and campaigns across key metrics like CTR, ROI, Conversion Rate, CAC , CLTV etc*
 
-# [Please find the link to Tableau Dashboard](https://public.tableau.com/app/profile/mohit.kedia/viz/MarketingCampaignPerformance_17260356654310/DimensionvsMeasures)
+**[Please find the link to Tableau Dashboard](https://public.tableau.com/app/profile/mohit.kedia/viz/MarketingCampaignPerformance_17260356654310/DimensionvsMeasures)**
 
 *The Marketing Campaign Performance Dataset provides valuable insights into the effectiveness of various marketing campaigns. This dataset captures the performance metrics, target audience, duration, channels used, and other essential factors that contribute to the success of marketing initiatives. With 200000 unique rows of data spanning two years, this dataset offers a comprehensive view of campaign performance across diverse companies and customer segments*.
 
@@ -75,6 +75,23 @@ There is no limitation to any tools and technology for this analysis*.
 **[Please find the Analysis in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/Hotel_Booking_Case_Study/AccomodationType)**
 
 **[Please find the detailed project in PPT](https://github.com/MohitKedia/Case-Study-on-Hotel-Booking-Price/blob/main/Hotel%20Booking%20Price%20Analysis%20Agoda.pdf)**
+
+# [Project 3 : Levers-Vs-Indicators-Analysis](https://github.com/MohitKedia/Levers-Vs-Indicators-Analysis)
+
+*Step 1 : The Problem statement for this project is to understand the factors or levers that impact session rating and session completion rate in live online interactive sessions*
+
+*Step 2 : After knowing the problem statement, I had coordinated with Business or Content Team to understand key metrics or X variables that can impact the Y variables. Some of the x metrics are attendance%,#avg chat per user, #doubts asked, #quizzes asked,%quiz accuracy, %quiz attempt, %students who rated class slides as great, %doubts resolved and some of the y metrics are session rating, session completion rate and like dislike ratio.*
+
+*Step 3 : After getting all metrics, I did data extraction by writing complex SQL queries using Window functions, CTEs, Joins and subqueries on Metabase and Amazon Redshift for which I coordinated with Multiple teams including Tech, Analytics and Product*
+
+*Step 4 : After extracting the data, I performed data visualization and interactive dashboard to get hidden trends or insights*
+
+*Step 5 : After getting insights, I had recommended few solutions to the business team,Content and Product Team to make few changes and we were able to improve session completion rate by 30%*
+
+**[Please find the link to Tableau Dashboard with insights]
+(https://public.tableau.com/app/profile/mohit.kedia/viz/LeversvsIndicatorsAnalysis/Dashboard1)**
+
+
 
 
 
