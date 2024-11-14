@@ -91,6 +91,14 @@ There is no limitation to any tools and technology for this analysis*.
 **[Please find the link to Tableau Dashboard with insights]
 (https://public.tableau.com/app/profile/mohit.kedia/viz/LeversvsIndicatorsAnalysis/Dashboard1)**
 
+# [Project 4 : Superstore-sales-analysis](https://github.com/MohitKedia/Superstore-sales-analysis)
+
+*In this repository, You can see I have derived more than 20 excel keyboard shortcuts to work with along with different methods to perform data cleaning tasks in Excel*
+
+*I have also attached a file with list of important Excel functions like COUNTIFS,MAXIFS,MINIFS,SUMIFS,AVERAGEIFS,INDEX MATCH,LARGE,SMALL,LEFT,RIGHT,MID,LOWER,PROPER,CONCAT,IFERROR,LOGICAL FUNCTIONS,DATE FUNCTIONS,CEILING,ROUND,MROUND,FLOOR,RAND etc*
+
+*Lastly, I have made pivot charts and interactive dashboard from Superstore sales dataset. In the dashboard, I have created list of 15 questions and then I have answered those questions visually. Filters or slicers in the data are Year, Segment, Region, Category and Ship Status*
+
 
 
 
