@@ -101,11 +101,33 @@ There is no limitation to any tools and technology for this analysis*.
 
 **Lastly, I have made pivot charts and interactive dashboard from Superstore sales dataset. In the dashboard, I have created list of 15 questions and then I have answered those questions visually. Filters or slicers in the data are Year, Segment, Region, Category and Ship Status**
 
+**[Please find the link to interactive and dynamic dashboard](https://github.com/MohitKedia/Superstore-sales-analysis/blob/main/Super%20store%202023%20dashboard.xlsx)**
+
 # [Project 5 : ICC-T20-WORLD-CUP-2024-ANALYSIS](https://github.com/MohitKedia/ICC-T20-WORLD-CUP-2024-ANALYSIS)
 
 *This is an ICC T20 WORLD CUP 2024 Data where I have found top 5 teams based on no of matches won , top 5 players based on total score throughout the tournament, based on highest score in a match. Also found top 5 players who took most no of wickets and were most economical*
 
 **Analysis have been done using Tableau and its different features like data import,parameters,filters,dashboard actions, dashboard objects etc**.
+
+**[Please find the link to Tableau Dashboard](https://public.tableau.com/app/profile/mohit.kedia/viz/ICCWorldCupT202024Analysis/WinningStatistics)**
+
+# [Project 6 : Different Functions in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/FunctionsinTableau_17201773190830/Wildcardfiltering)
+
+*In this short project, I have learned more than 50 functions to perform in Tableau*
+
+# [Project 7 : Parameters, Sets and LODs in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/ParametersSetsandLODs/NoofVendorsthatexceeded50000ineachyear)
+
+*In this short project, I have learned how to perform parameters , sets and LODs based calculations in Tableau*
+
+# [Project 8 : Custom Visualizations in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/MyCustomVisualizations/Sparklines)
+
+*In this short project, I have learned how to make 15-20 different types of charts in Tableau including bar chart, column chart,stacked bar chart,line chart,pie chart,area chart,packed bubbles chart,scatterplot,heatmaps,tree maps or hierarchy maps, map charts,histograms,box plots,donut chart,bump charts etc*
+
+# [Project 9 : Dashboard Design Elements and Objects](https://public.tableau.com/app/profile/mohit.kedia/viz/DashboardDesignElementsandObjects/Dashboard7filtersfloating)
+
+*In this short learning project, I have learned how to use Dashboard objects like Horizontal container,Images,Text,Borders,Navigation button or links in a dashboard*
+
+
 
 
 
