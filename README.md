@@ -4,20 +4,23 @@
 
 **[Please find the link to Tableau Dashboard](https://public.tableau.com/app/profile/mohit.kedia/viz/MarketingCampaignPerformance_17260356654310/DimensionvsMeasures)**
 
-*The Marketing Campaign Performance Dataset provides valuable insights into the effectiveness of various marketing campaigns. This dataset captures the performance metrics, target audience, duration, channels used, and other essential factors that contribute to the success of marketing initiatives. With 200000 unique rows of data spanning two years, this dataset offers a comprehensive view of campaign performance across diverse companies and customer segments*.
+**The Marketing Campaign Performance Dataset provides valuable insights into the effectiveness of various marketing campaigns. This dataset captures the performance metrics, target audience, duration, channels used, and other essential factors that contribute to the success of marketing initiatives. With 200000 unique rows of data spanning two years, this dataset offers a comprehensive view of campaign performance across diverse companies and customer segments**
 
-*The dataset contains 200,000 entries and 16 columns related to marketing campaigns. Key fields include:*
+**The dataset contains 200,000 entries and 16 columns related to marketing campaigns. Key fields include:**
 
 *•	Campaign_ID: Unique identifier for each marketing campaign.
  •	Company: The company running the campaign.
  •	Campaign_Type: The type of campaign (Email, Display, Influencer, etc.).
- •	Target_Audience: The specific audience segment targeted by the campaign, such as women aged 25-34, men aged 18-24, or all age groups.
+ •	Target_Audience: The specific audience segment targeted by the campaign, such as women aged 25-34, men aged 18-24, or all age 
+   groups.
  •	Duration: Length of the campaign.
- •	Channel_Used: The channels utilized to promote the campaign, which may include email, social media platforms, YouTube, websites, or Google Ads 
+ •	Channel_Used: The channels utilized to promote the campaign, which may include email, social media platforms, YouTube, websites, 
+   or Google Ads 
  •	Conversion_Rate: The percentage of leads or impressions that converted into desired actions, indicating campaign effectiveness..
  •	Acquisition_Cost: Total cost to acquire customers during the campaign.
  •	ROI: Return on investment for the campaign.
- •	Location: The geographical location where the campaign was conducted, encompassing major cities like New York, Los Angeles, Chicago, Houston, or Miami.
+ •	Location: The geographical location where the campaign was conducted, encompassing major cities like New York, Los Angeles, 
+   Chicago, Houston, or Miami.
  •	Language: The language used in the campaign communication, including English, Spanish, French, German, or Mandarin.
  •	Clicks: Number of clicks generated.
  •	Impressions: Number of times the ad was shown.
@@ -25,7 +28,7 @@
  •	Customer_Segment: The specific group targeted (e.g., Health & Wellness).
  •	Date: Date when the campaign was launched*
 
-*Key Insights and Recommendations below*
+**Key Insights and Recommendations below**
 
 *1. Which channels have the highest/lowest ROI?*
 *Insights : Facebook performs best in terms of ROI (5.02), closely followed by Website (5.01) and Google Ads (5.00). Facebook has slightly lower acquisition costs than other channels, which may contribute to its higher ROI.Instagram and YouTube have the lowest ROI (~4.99), but are still comparable in terms of conversion rates (~8%).
@@ -78,18 +81,17 @@ There is no limitation to any tools and technology for this analysis*.
 
 # [Project 3 : Levers-Vs-Indicators-Analysis](https://github.com/MohitKedia/Levers-Vs-Indicators-Analysis)
 
-*Step 1 : The Problem statement for this project is to understand the factors or levers that impact session rating and session completion rate in live online interactive sessions*
+**Step 1 : The Problem statement for this project is to understand the factors or levers that impact session rating and session completion rate in live online interactive sessions**
 
 *Step 2 : After knowing the problem statement, I had coordinated with Business or Content Team to understand key metrics or X variables that can impact the Y variables. Some of the x metrics are attendance%,#avg chat per user, #doubts asked, #quizzes asked,%quiz accuracy, %quiz attempt, %students who rated class slides as great, %doubts resolved and some of the y metrics are session rating, session completion rate and like dislike ratio.*
 
-*Step 3 : After getting all metrics, I did data extraction by writing complex SQL queries using Window functions, CTEs, Joins and subqueries on Metabase and Amazon Redshift for which I coordinated with Multiple teams including Tech, Analytics and Product*
+**Step 3 : After getting all metrics, I did data extraction by writing complex SQL queries using Window functions, CTEs, Joins and subqueries on Metabase and Amazon Redshift for which I coordinated with Multiple teams including Tech, Analytics and Product**
 
 *Step 4 : After extracting the data, I performed data visualization and interactive dashboard to get hidden trends or insights*
 
-*Step 5 : After getting insights, I had recommended few solutions to the business team,Content and Product Team to make few changes and we were able to improve session completion rate by 30%*
+**Step 5 : After getting insights, I had recommended few solutions to the business team,Content and Product Team to make few changes and we were able to improve session completion rate by 30%**
 
-**[Please find the link to Tableau Dashboard with insights]
-(https://public.tableau.com/app/profile/mohit.kedia/viz/LeversvsIndicatorsAnalysis/Dashboard1)**
+**[Please find the link to Tableau Dashboard with insights](https://public.tableau.com/app/profile/mohit.kedia/viz/LeversvsIndicatorsAnalysis/Dashboard1)**
 
 # [Project 4 : Superstore-sales-analysis](https://github.com/MohitKedia/Superstore-sales-analysis)
 
@@ -97,9 +99,13 @@ There is no limitation to any tools and technology for this analysis*.
 
 *I have also attached a file with list of important Excel functions like COUNTIFS,MAXIFS,MINIFS,SUMIFS,AVERAGEIFS,INDEX MATCH,LARGE,SMALL,LEFT,RIGHT,MID,LOWER,PROPER,CONCAT,IFERROR,LOGICAL FUNCTIONS,DATE FUNCTIONS,CEILING,ROUND,MROUND,FLOOR,RAND etc*
 
-*Lastly, I have made pivot charts and interactive dashboard from Superstore sales dataset. In the dashboard, I have created list of 15 questions and then I have answered those questions visually. Filters or slicers in the data are Year, Segment, Region, Category and Ship Status*
+**Lastly, I have made pivot charts and interactive dashboard from Superstore sales dataset. In the dashboard, I have created list of 15 questions and then I have answered those questions visually. Filters or slicers in the data are Year, Segment, Region, Category and Ship Status**
 
+# [Project 5 : ICC-T20-WORLD-CUP-2024-ANALYSIS](https://github.com/MohitKedia/ICC-T20-WORLD-CUP-2024-ANALYSIS)
 
+*This is an ICC T20 WORLD CUP 2024 Data where I have found top 5 teams based on no of matches won , top 5 players based on total score throughout the tournament, based on highest score in a match. Also found top 5 players who took most no of wickets and were most economical*
+
+**Analysis have been done using Tableau and its different features like data import,parameters,filters,dashboard actions, dashboard objects etc**.
 
 
 
