@@ -101,9 +101,9 @@ There is no limitation to any tools and technology for this analysis*.
 
 *I have also attached a file with list of important Excel functions like COUNTIFS,MAXIFS,MINIFS,SUMIFS,AVERAGEIFS,INDEX MATCH,LARGE,SMALL,LEFT,RIGHT,MID,LOWER,PROPER,CONCAT,IFERROR,LOGICAL FUNCTIONS,DATE FUNCTIONS,CEILING,ROUND,MROUND,FLOOR,RAND etc*
 
-**Lastly, I have made pivot charts and interactive dashboard from Superstore sales dataset. In the dashboard, I have created list of 15 questions and then I have answered those questions visually. Filters or slicers in the data are Year, Segment, Region, Category and Ship Status**
+**Lastly, I have made pivot charts and interactive dashboard in Excel from Superstore sales dataset. In the dashboard, I have created list of 15 questions and then I have answered those questions visually. Filters or slicers in the data are Year, Segment, Region, Category and Ship Status**
 
-**[Please find the link to interactive and dynamic dashboard](https://github.com/MohitKedia/Superstore-sales-analysis/blob/main/Super%20store%202023%20dashboard.xlsx)**
+**[Please find the link to interactive and dynamic dashboard in Excel](https://github.com/MohitKedia/Superstore-sales-analysis/blob/main/Super%20store%202023%20dashboard.xlsx)**
 
 # [Project 5 : ICC-T20-WORLD-CUP-2024-ANALYSIS](https://github.com/MohitKedia/ICC-T20-WORLD-CUP-2024-ANALYSIS)
 
