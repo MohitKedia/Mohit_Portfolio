@@ -51,7 +51,26 @@ Recommendations : Design more interactive and engaging campaigns for Foodies to 
 
 *Rest of the Insights and Recommendations are attached in the word file format*.
 
-# [Project 2 : Case-Study-on-Hotel-Booking-Price](https://github.com/MohitKedia/Case-Study-on-Hotel-Booking-Price)
+# [Project 2 : Write a SQL Query to create a retention plot](https://github.com/MohitKedia/Retention-cohort-Analysis-SQL) 
+
+*Given an Order Table with the schema (id, user_id, total, created)*. 
+*Week Start Date is the 1st Week in which the User_Id Placed the order, Week 0 is Unique User ids who placed their 1st Order in this week. Out of those ids, Week 1 is unique users who placed an order in 1st Week + 1, Then Week 2 is 1st Week + 2, and so on till Week 10*
+*Query is written in MySQL Workbench and Raw data and output is attached as Excel file*
+*Create table and Insert statements are written in My SQL editor*
+
+# [Project 3 : Calculate time spent by employees in the office in SQL](https://github.com/MohitKedia/Time-spent-by-employees-in-office/tree/main)
+
+*A company record its employee's movement In and Out of the office on a table with 3 columns (Employee id, Action (In/Out), Created).
+Create table and Insert statements are written in My SQL editor*
+
+
+# [Project 4 : User-Activity-Analysis-Using-SQL-](https://github.com/MohitKedia/User-Activity-Analysis-Using-SQL-)
+
+*Project Title : User-Activity-Analysis-Using-SQL-*
+*This project focuses on analyzing user activity data from two tables, users_id and logins.The goal is to provide valuable insights into user engagement, activity patterns, and overall usage trends over time* 
+*Create table and Insert statements are written in My SQL editor*
+
+# [Project 5 : Case-Study-on-Hotel-Booking-Price](https://github.com/MohitKedia/Case-Study-on-Hotel-Booking-Price)
 
 *Primary goal of launching a new feature on Agoda website is to increase the number of bookings. One way to increase the number of bookings and conversion rate is to encourage customers to complete their booking as fast as possible. The call to action message that helps us to achieve that is internally known as an ‘urgency message’*.
 
@@ -81,7 +100,7 @@ There is no limitation to any tools and technology for this analysis*.
 
 **[Please find the detailed project in PPT](https://github.com/MohitKedia/Case-Study-on-Hotel-Booking-Price/blob/main/Hotel%20Booking%20Price%20Analysis%20Agoda.pdf)**
 
-# [Project 3 : Levers-Vs-Indicators-Analysis](https://github.com/MohitKedia/Levers-Vs-Indicators-Analysis)
+# [Project 6 : Levers-Vs-Indicators-Analysis](https://github.com/MohitKedia/Levers-Vs-Indicators-Analysis)
 
 **Step 1 : The Problem statement for this project is to understand the factors or levers that impact session rating and session completion rate in live online interactive sessions**
 
@@ -95,7 +114,7 @@ There is no limitation to any tools and technology for this analysis*.
 
 **[Please find the link to Tableau Dashboard with insights](https://public.tableau.com/app/profile/mohit.kedia/viz/LeversvsIndicatorsAnalysis/Dashboard1)**
 
-# [Project 4 : Superstore-sales-analysis](https://github.com/MohitKedia/Superstore-sales-analysis)
+# [Project 7 : Superstore-sales-analysis](https://github.com/MohitKedia/Superstore-sales-analysis)
 
 *In this repository, You can see I have derived more than 20 excel keyboard shortcuts to work with along with different methods to perform data cleaning tasks in Excel*
 
@@ -105,7 +124,7 @@ There is no limitation to any tools and technology for this analysis*.
 
 **[Please find the link to interactive and dynamic dashboard in Excel](https://github.com/MohitKedia/Superstore-sales-analysis/blob/main/Super%20store%202023%20dashboard.xlsx)**
 
-# [Project 5 : ICC-T20-WORLD-CUP-2024-ANALYSIS](https://github.com/MohitKedia/ICC-T20-WORLD-CUP-2024-ANALYSIS)
+# [Project 8 : ICC-T20-WORLD-CUP-2024-ANALYSIS](https://github.com/MohitKedia/ICC-T20-WORLD-CUP-2024-ANALYSIS)
 
 *This is an ICC T20 WORLD CUP 2024 Data where I have found top 5 teams based on no of matches won , top 5 players based on total score throughout the tournament, based on highest score in a match. Also found top 5 players who took most no of wickets and were most economical*
 
@@ -113,19 +132,19 @@ There is no limitation to any tools and technology for this analysis*.
 
 **[Please find the link to Tableau Dashboard](https://public.tableau.com/app/profile/mohit.kedia/viz/ICCWorldCupT202024Analysis/WinningStatistics)**
 
-# [Project 6 : Different Functions in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/FunctionsinTableau_17201773190830/Wildcardfiltering)
+# [Project 9 : Different Functions in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/FunctionsinTableau_17201773190830/Wildcardfiltering)
 
 *In this short project, I have learned more than 50 functions to perform in Tableau*
 
-# [Project 7 : Parameters, Sets and LODs in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/ParametersSetsandLODs/NoofVendorsthatexceeded50000ineachyear)
+# [Project 10 : Parameters, Sets and LODs in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/ParametersSetsandLODs/NoofVendorsthatexceeded50000ineachyear)
 
 *In this short project, I have learned how to perform parameters , sets and LODs based calculations in Tableau*
 
-# [Project 8 : Custom Visualizations in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/MyCustomVisualizations/Sparklines)
+# [Project 11 : Custom Visualizations in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/MyCustomVisualizations/Sparklines)
 
 *In this short project, I have learned how to make 15-20 different types of charts in Tableau including bar chart, column chart,stacked bar chart,line chart,pie chart,area chart,packed bubbles chart,scatterplot,heatmaps,tree maps or hierarchy maps, map charts,histograms,box plots,donut chart,bump charts etc*
 
-# [Project 9 : Dashboard Design Elements and Objects](https://public.tableau.com/app/profile/mohit.kedia/viz/DashboardDesignElementsandObjects/Dashboard7filtersfloating)
+# [Project 12 : Dashboard Design Elements and Objects](https://public.tableau.com/app/profile/mohit.kedia/viz/DashboardDesignElementsandObjects/Dashboard7filtersfloating)
 
 *In this short learning project, I have learned how to use Dashboard objects like Horizontal container,Images,Text,Borders,Navigation button or links in a dashboard*
 
