@@ -70,37 +70,7 @@ Create table and Insert statements are written in My SQL editor*
 *This project focuses on analyzing user activity data from two tables, users_id and logins.The goal is to provide valuable insights into user engagement, activity patterns, and overall usage trends over time* 
 *Create table and Insert statements are written in My SQL editor*
 
-# [Project 5 : Case-Study-on-Hotel-Booking-Price](https://github.com/MohitKedia/Case-Study-on-Hotel-Booking-Price)
-
-*Primary goal of launching a new feature on Agoda website is to increase the number of bookings. One way to increase the number of bookings and conversion rate is to encourage customers to complete their booking as fast as possible. The call to action message that helps us to achieve that is internally known as an ‘urgency message’*.
-
-*A Product Owner (PO) would like to implement an urgency message on the website such as*
-
-*“Prices have been rising. Book now to lock in your rates!”
-“Your check-in is fast approaching. Book now to lock in your rates!”
-He/she is requesting you to perform an analysis in order to understand the movement of the price as the day approaches the check-in date. Attached is a randomly sampled booking data from five different cities with check-in between 10/10/2016 – 12/31/2016*.
-
-*Please analyze the data and prepare a presentation in any format of preference (i.e. powerpoint, keynote, or pdf). You will have 30 minutes to present to the PO and some of the team's developers including time for their questions*.
-
-*Some things to think about*
-
-*At which part of the funnel should this message be implemented? On a homepage, search results page, at the property level, or booking form?
-What assumptions are you making about the data?
-What factors play a role on price in this analysis?
-What other factors may influence the analysis that isn’t available in the dataset? What would improve the analysis?
-What conclusions can you draw from the data?
-What recommendations would you give to the Product Owner?
-There is no limitation to any tools and technology for this analysis*.
-
-*Data Dictionary*
-
-*ADR – Average Daily Rate in US Dollars (Customer Total Amount / Room Nights) Hotel ID – Property identification number City ID – City identification number Star rating – Property’s star rating Accommodation Type Name – Property’s accommodation type Chain Hotel – Indicates whether the property is part of a chain or not Booking date – Date of booking made Check-in date – Date of check-in Check-out date – Date of check-out*
-
-**[Please find the Analysis in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/Hotel_Booking_Case_Study/AccomodationType)**
-
-**[Please find the detailed project in PPT](https://github.com/MohitKedia/Case-Study-on-Hotel-Booking-Price/blob/main/Hotel%20Booking%20Price%20Analysis%20Agoda.pdf)**
-
-# [Project 6 : Levers-Vs-Indicators-Analysis](https://github.com/MohitKedia/Levers-Vs-Indicators-Analysis)
+# [Project 5 : Levers-Vs-Indicators-Analysis](https://github.com/MohitKedia/Levers-Vs-Indicators-Analysis)
 
 **Step 1 : The Problem statement for this project is to understand the factors or levers that impact session rating and session completion rate in live online interactive sessions**
 
@@ -114,7 +84,7 @@ There is no limitation to any tools and technology for this analysis*.
 
 **[Please find the link to Tableau Dashboard with insights](https://public.tableau.com/app/profile/mohit.kedia/viz/LeversvsIndicatorsAnalysis/Dashboard1)**
 
-# [Project 7 : Superstore-sales-analysis](https://github.com/MohitKedia/Superstore-sales-analysis)
+# [Project 6 : Superstore-sales-analysis](https://github.com/MohitKedia/Superstore-sales-analysis)
 
 *In this repository, You can see I have derived more than 20 excel keyboard shortcuts to work with along with different methods to perform data cleaning tasks in Excel*
 
@@ -124,7 +94,7 @@ There is no limitation to any tools and technology for this analysis*.
 
 **[Please find the link to interactive and dynamic dashboard in Excel](https://github.com/MohitKedia/Superstore-sales-analysis/blob/main/Super%20store%202023%20dashboard.xlsx)**
 
-# [Project 8 : ICC-T20-WORLD-CUP-2024-ANALYSIS](https://github.com/MohitKedia/ICC-T20-WORLD-CUP-2024-ANALYSIS)
+# [Project 7 : ICC-T20-WORLD-CUP-2024-ANALYSIS](https://github.com/MohitKedia/ICC-T20-WORLD-CUP-2024-ANALYSIS)
 
 *This is an ICC T20 WORLD CUP 2024 Data where I have found top 5 teams based on no of matches won , top 5 players based on total score throughout the tournament, based on highest score in a match. Also found top 5 players who took most no of wickets and were most economical*
 
@@ -132,19 +102,19 @@ There is no limitation to any tools and technology for this analysis*.
 
 **[Please find the link to Tableau Dashboard](https://public.tableau.com/app/profile/mohit.kedia/viz/ICCWorldCupT202024Analysis/WinningStatistics)**
 
-# [Project 9 : Different Functions in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/FunctionsinTableau_17201773190830/Wildcardfiltering)
+# [Project 8 : Different Functions in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/FunctionsinTableau_17201773190830/Wildcardfiltering)
 
 *In this short project, I have learned more than 50 functions to perform in Tableau*
 
-# [Project 10 : Parameters, Sets and LODs in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/ParametersSetsandLODs/NoofVendorsthatexceeded50000ineachyear)
+# [Project 9 : Parameters, Sets and LODs in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/ParametersSetsandLODs/NoofVendorsthatexceeded50000ineachyear)
 
 *In this short project, I have learned how to perform parameters , sets and LODs based calculations in Tableau*
 
-# [Project 11 : Custom Visualizations in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/MyCustomVisualizations/Sparklines)
+# [Project 10 : Custom Visualizations in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/MyCustomVisualizations/Sparklines)
 
 *In this short project, I have learned how to make 15-20 different types of charts in Tableau including bar chart, column chart,stacked bar chart,line chart,pie chart,area chart,packed bubbles chart,scatterplot,heatmaps,tree maps or hierarchy maps, map charts,histograms,box plots,donut chart,bump charts etc*
 
-# [Project 12 : Dashboard Design Elements and Objects](https://public.tableau.com/app/profile/mohit.kedia/viz/DashboardDesignElementsandObjects/Dashboard7filtersfloating)
+# [Project 11 : Dashboard Design Elements and Objects](https://public.tableau.com/app/profile/mohit.kedia/viz/DashboardDesignElementsandObjects/Dashboard7filtersfloating)
 
 *In this short learning project, I have learned how to use Dashboard objects like Horizontal container,Images,Text,Borders,Navigation button or links in a dashboard*
 
