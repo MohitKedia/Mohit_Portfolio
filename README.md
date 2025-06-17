@@ -1,4 +1,4 @@
-# [Please find my resume](https://drive.google.com/file/d/1FHER616uuiI1B8kCuq0qOUFw6YF4ODrX/view?usp=drive_link)
+# [Please find my resume](https://drive.google.com/file/d/1KbWufSGzpZwopw03-S5WkZi2-bwq78b_/view?usp=sharing)
 
 # [Project 1 : Marketing-Campaign-Performance](https://github.com/MohitKedia/Marketing-Campaign-Performance)
 
