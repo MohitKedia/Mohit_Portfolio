@@ -1,124 +1,132 @@
-# [Please find my resume](https://drive.google.com/file/d/1CTIxUHAkxSPdnlUGRv7rgUW18zWcE_W_/view?usp=sharing)
-
-# [Project 1 : Marketing-Campaign-Performance](https://github.com/MohitKedia/Marketing-Campaign-Performance)
-
-*Analyze the effectiveness of Different Marketing channels and campaigns across key metrics like CTR, ROI, Conversion Rate, CAC , CLTV etc*
-
-**[Please find the link to Tableau Dashboard](https://public.tableau.com/app/profile/mohit.kedia/viz/MarketingCampaignPerformance_17260356654310/DimensionvsMeasures)**
-
-**The Marketing Campaign Performance Dataset provides valuable insights into the effectiveness of various marketing campaigns. This dataset captures the performance metrics, target audience, duration, channels used, and other essential factors that contribute to the success of marketing initiatives. With 200000 unique rows of data spanning two years, this dataset offers a comprehensive view of campaign performance across diverse companies and customer segments**
-
-**The dataset contains 200,000 entries and 16 columns related to marketing campaigns. Key fields include:**
-
-*•	**Campaign_ID**: Unique identifier for each marketing campaign.
- •	**Company**: The company running the campaign.
- •	**Campaign_Type**: The type of campaign (Email, Display, Influencer, etc.).
- •	**Target_Audience**: The specific audience segment targeted by the campaign, such as women aged 25-34, men aged 18-24, or all age 
-     groups.
- •	**Duration**: Length of the campaign.
- •	**Channel_Used**: The channels utilized to promote the campaign, which may include email, social media platforms, YouTube, 
-     websites,or Google Ads 
- •	**Conversion_Rate**: The percentage of leads or impressions that converted into desired actions, indicating campaign 
-     effectiveness..
- •	**Acquisition_Cost**: Total cost to acquire customers during the campaign.
- •	**ROI**: Return on investment for the campaign.
- •	**Location**: The geographical location where the campaign was conducted, encompassing major cities like New York, Los Angeles, 
-     Chicago, Houston, or Miami.
- •	**Language**: The language used in the campaign communication, including English, Spanish, French, German, or Mandarin.
- •	**Clicks**: Number of clicks generated.
- •	**Impressions**: Number of times the ad was shown.
- •	**Engagement_Score**: Engagement level of the audience (e.g., likes, comments).
- •	**Customer_Segment**: The specific group targeted (e.g., Health & Wellness).
- •	**Date**: Date when the campaign was launched*
-
-**Key Insights and Recommendations below**
-
-*1. **Which channels have the highest/lowest ROI?***
-*Insights : Facebook performs best in terms of ROI (5.02), closely followed by Website (5.01) and Google Ads (5.00). Facebook has slightly lower acquisition costs than other channels, which may contribute to its higher ROI.Instagram and YouTube have the lowest ROI (~4.99), but are still comparable in terms of conversion rates (~8%).
-Recommendations : Facebook and Website should be prioritized for future campaigns, given their higher ROI. Increase ad spend on Facebook and Website, as they provide higher returns relative to the cost*
-
-*2. **What channels perform best in terms of conversion rate?***
-*Insights : Email has the highest conversion rate (8.02) followed by Google Ads(8.01) and Website (8.01).YouTube and Instagram has least conversion rate (7.98)
-Recommendations : Focus more on Google Ads and Email campaigns to drive conversions, as they consistently yield strong results*
- 
-*3. **Which campaign type yield highest conversion rate?***
-*Insights : Influencer(8.03) has highest conversion rate followed by Social Media(8.01) and Display, search and Email.
- Recommendations : Encouraging or spending on Influencers and Social media campaign can yield higher profits*
-
-*4. **Which customer segments yield the highest engagement?***
-*Insights : Foodies have the highest engagement score (5.51) and ROI (5.00),  indicating strong audience interaction. Outdoor Adventurers displays high engagement score (5.50) followed by Fashionistas. Health and Wellness has least engagement score of 5.48.
-Recommendations : Design more interactive and engaging campaigns for Foodies to leverage their high level of engagement*.
-
-*Rest of the Insights and Recommendations are attached in the word file format*.
-
-# [Project 2 : Write a SQL Query to create a retention plot](https://github.com/MohitKedia/Retention-cohort-Analysis-SQL) 
-
-*Given an Order Table with the schema (id, user_id, total, created)*. 
-*Week Start Date is the 1st Week in which the User_Id Placed the order, Week 0 is Unique User ids who placed their 1st Order in this week. Out of those ids, Week 1 is unique users who placed an order in 1st Week + 1, Then Week 2 is 1st Week + 2, and so on till Week 10*
-*Query is written in MySQL Workbench and Raw data and output is attached as Excel file*
-*Create table and Insert statements are written in My SQL editor*
-
-# [Project 3 : Calculate time spent by employees in the office in SQL](https://github.com/MohitKedia/Time-spent-by-employees-in-office/tree/main)
-
-*A company record its employee's movement In and Out of the office on a table with 3 columns (Employee id, Action (In/Out), Created).
-Create table and Insert statements are written in My SQL editor*
 
 
-# [Project 4 : User-Activity-Analysis-Using-SQL-](https://github.com/MohitKedia/User-Activity-Analysis-Using-SQL-)
+<h1 align="center">Hi 👋, I'm Mohit Kedia</h1>
+<h3 align="center">Data Enthusiast | Business Analyst | Storyteller in SQL and Dashboards</h3>
 
-*Project Title : User-Activity-Analysis-Using-SQL-*
-*This project focuses on analyzing user activity data from two tables, users_id and logins.The goal is to provide valuable insights into user engagement, activity patterns, and overall usage trends over time* 
-*Create table and Insert statements are written in My SQL editor*
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohitkedia5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohitkedia5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1sUaBbsjzltkensDPKMLhwcGF5-Kup6ja/preview" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Preview-green" />
+  </a>
+  <a href="https://drive.google.com/uc?export=download&id=1sUaBbsjzltkensDPKMLhwcGF5-Kup6ja" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-blue" />
+  </a>
+</p>
 
-# [Project 5 : Levers-Vs-Indicators-Analysis](https://github.com/MohitKedia/Levers-Vs-Indicators-Analysis)
+---
 
-**Step 1 : The Problem statement for this project is to understand the factors or levers that impact session rating and session completion rate in live online interactive sessions**
+### 👨‍💻 About Me
 
-*Step 2 : After knowing the problem statement, I had coordinated with Business or Content Team to understand key metrics or X variables that can impact the Y variables. Some of the x metrics are attendance%,#avg chat per user, #doubts asked, #quizzes asked,%quiz accuracy, %quiz attempt, %students who rated class slides as great, %doubts resolved and some of the y metrics are session rating, session completion rate and like dislike ratio.*
+I’m a data-driven professional with a background in Data Analytics and a passion for turning numbers into stories. I enjoy solving real-world business problems with SQL, Excel, Tableau, Power BI and Python, and love building insightful dashboards and analytics case studies.
 
-**Step 3 : After getting all metrics, I did data extraction by writing complex SQL queries using Window functions, CTEs, Joins and subqueries on Metabase and Amazon Redshift for which I coordinated with Multiple teams including Tech, Analytics and Product**
+---
 
-*Step 4 : After extracting the data, I performed data visualization and interactive dashboard to get hidden trends or insights*
+### 🎓 Education
 
-**Step 5 : After getting insights, I had recommended few solutions to the business team,Content and Product Team to make few changes and we were able to improve session completion rate by 30%**
+- 🎓 **IIT Kharagpur**, Integrated M.Sc in Applied Geology  
+  📅 *2011–2016*  
+  🔹 CGPA - 7.39 / Achievements: Achieved AIR – 5406 (top 1.1 percentile) in IIT JEE 2011, Optimized student participation to 500 (twice of previous season) as Executive Committee Member of PRITHVI
 
-**[Please find the link to Tableau Dashboard with insights](https://public.tableau.com/app/profile/mohit.kedia/viz/LeversvsIndicatorsAnalysis/Dashboard1)**
+---
 
-# [Project 6 : Superstore-sales-analysis](https://github.com/MohitKedia/Superstore-sales-analysis)
+### 💼 Work Experience
 
-*In this repository, You can see I have derived more than 20 excel keyboard shortcuts to work with along with different methods to perform data cleaning tasks in Excel*
+#### **Masai School** – *Industry Mentor and Consultant*  
+📍 Remote, India | 🗓️ Apr'2025 - Present  
+- ⭐ Received more than 4.5 ratings out of 5 in all the lectures conducted  
+- 🧑‍🏫 Mentored 50+ students, conducted live sessions on SQL, Tableau, Power BI with quizzes/polls  
+- 🧰 Tools: SQL, Excel, Tableau, Power BI, PowerPoint, ChatGPT
 
-*I have also attached a file with list of important Excel functions like COUNTIFS,MAXIFS,MINIFS,SUMIFS,AVERAGEIFS,INDEX MATCH,LARGE,SMALL,LEFT,RIGHT,MID,LOWER,PROPER,CONCAT,IFERROR,LOGICAL FUNCTIONS,DATE FUNCTIONS,CEILING,ROUND,MROUND,FLOOR,RAND etc*
+#### **Self Employed** – *Freelance Educational Content Creator*  
+📍 Remote, India | 🗓️ May'2022 - Mar'2025  
+- 📺 Created YouTube channel "Knowledge Hub in Analytics" with 100+ tutorials  
+- 🚀 Deepened technical skills; produced content on Excel, SQL, Tableau, Power BI  
+- 🧰 Tools: SQL, Excel, Tableau, Power BI, Python, Canva
 
-**Lastly, I have made pivot charts and interactive dashboard in Excel from Superstore sales dataset. In the dashboard, I have created list of 15 questions and then I have answered those questions visually. Filters or slicers in the data are Year, Segment, Region, Category and Ship Status**
+#### **Verse Innovation** – *Data Analyst*  
+📍 Bangalore, India | 🗓️ Dec'2021 - Apr'2022  
+- 📊 Designed sector pricing dashboards and automated proposal generation  
+- 🧰 Tools: Excel, Google Sheets, LeadSquared CRM, Google Ads
 
-**[Please find the link to interactive and dynamic dashboard in Excel](https://github.com/MohitKedia/Superstore-sales-analysis/blob/main/Super%20store%202023%20dashboard.xlsx)**
+#### **Mobile Premier League (MPL)** – *Data Analyst*  
+📍 Bangalore, India | 🗓️ May'2020 - Feb'2021  
+- 📈 Improved content creation 10x and user engagement 2x  
+- 🧰 Tools: MySQL, PySpark, Qubole, CleverTap, Jira, Google Sheets, Slides
 
-# [Project 7 : ICC-T20-WORLD-CUP-2024-ANALYSIS](https://github.com/MohitKedia/ICC-T20-WORLD-CUP-2024-ANALYSIS)
+#### **Vedantu** – *Business Analyst*  
+📍 Bangalore, India | 🗓️ Jul'2019 - Feb'2020  
+- 📊 Boosted session completion rate by 30% via SQL + Tableau insights  
+- 🧰 Tools: PostgreSQL, Tableau, Excel, Metabase
 
-*This is an ICC T20 WORLD CUP 2024 Data where I have found top 5 teams based on no of matches won , top 5 players based on total score throughout the tournament, based on highest score in a match. Also found top 5 players who took most no of wickets and were most economical*
+---
 
-**Analysis have been done using Tableau and its different features like data import,parameters,filters,dashboard actions, dashboard objects etc**.
+### 🛠 Skills & Tools
 
-**[Please find the link to Tableau Dashboard](https://public.tableau.com/app/profile/mohit.kedia/viz/ICCWorldCupT202024Analysis/WinningStatistics)**
+- **Languages:** SQL, Python (Pandas, NumPy, Seaborn)  
+- **Analytics & BI:** Tableau, Power BI, Excel  
+- **Databases:** PostgreSQL, MySQL, Redshift  
+- **Tools:** Git, Jupyter, Google Sheets, Metabase, CleverTap, Jira, Google Ads, Google Analytics, CRM, ChatGPT, Qubole, PowerPoint, Word, Canva  
+- **Soft Skills:** Problem-solving, storytelling, stakeholder communication, mentorship, presentation, teamwork
 
-# [Project 8 : Different Functions in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/FunctionsinTableau_17201773190830/Wildcardfiltering)
+---
 
-*In this short project, I have learned more than 50 functions to perform in Tableau*
+### 📊 Projects
 
-# [Project 9 : Parameters, Sets and LODs in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/ParametersSetsandLODs/NoofVendorsthatexceeded50000ineachyear)
+#### [Marketing Campaign Performance Dashboard](https://github.com/MohitKedia/Marketing-Campaign-Performance)
+> Analyzed CTR, ROI, Conversion Rate, CPL, CPA using Tableau with parameter tools.  
+Tech: Excel, Tableau
 
-*In this short project, I have learned how to perform parameters , sets and LODs based calculations in Tableau*
+#### [Superstore Sales Analysis Dashboard](https://public.tableau.com/app/profile/mohit.kedia/viz/SuperstoreSalesProject_17502499870860/Story1)
+> Used dual-axis charts, treemaps, moving average, LODs, Z-score, and cohort analysis.  
+Tech: Excel, Tableau
 
-# [Project 10 : Custom Visualizations in Tableau](https://public.tableau.com/app/profile/mohit.kedia/viz/MyCustomVisualizations/Sparklines)
+#### [Week over Week Retention Plot](https://github.com/MohitKedia/Retention-cohort-Analysis-SQL)
+> Cohort-based SQL analysis to measure user retention over time.  
+Tech: SQL, Excel
 
-*In this short project, I have learned how to make 15-20 different types of charts in Tableau including bar chart, column chart,stacked bar chart,line chart,pie chart,area chart,packed bubbles chart,scatterplot,heatmaps,tree maps or hierarchy maps, map charts,histograms,box plots,donut chart,bump charts etc*
+#### [Levers vs Indicators Analysis](https://github.com/MohitKedia/Levers-Vs-Indicators-Analysis)
+> Used SQL + Tableau to improve live session completion rates from 50% to 80%.  
+Tech: Excel, SQL, Tableau
 
-# [Project 11 : Dashboard Design Elements and Objects](https://public.tableau.com/app/profile/mohit.kedia/viz/DashboardDesignElementsandObjects/Dashboard7filtersfloating)
+#### [ICC T20 World Cup 2024 Analysis](https://github.com/MohitKedia/ICC-T20-WORLD-CUP-2024-ANALYSIS)
+> Used Tableau to rank teams and players across performance metrics.  
+Tech: Tableau
 
-*In this short learning project, I have learned how to use Dashboard objects like Horizontal container,Images,Text,Borders,Navigation button or links in a dashboard*
+---
 
+### 📚 Courses & Certifications
 
+- ✅ Tableau Data Analyst Training – Udemy
+- ✅ Python for Data Science and ML Bootcamp – Udemy
+- ✅ MySQL for Data Analytics and BI – Udemy
+- ✅ Power BI for Beginners – Simplilearn
+- ✅ Programming for Everybody (Python) & Python Data Structures – Coursera
 
+---
 
+### 🏆 Achievements
 
+- 🏅 AIR 5406 in IIT JEE 2011 (Top 1.1%)
+- 📈 Increased session completion rate from 50% to 80% at Vedantu
+- 🔥 10x content creation, 2x engagement at MPL
+- ⭐ 4.5+ avg. rating at Masai School lectures
+- 🎯 Solved 100+ SQL challenges each on Hackerrank, Leetcode, Data Lemur
+- 🏆 Led PRITHVI event at IIT Kharagpur to double student participation
+
+---
+
+### 📫 Connect with Me
+
+📧 mohitkedia5@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/mohitkedia5/)
+
+---
+
+> ⚡ "Turning raw data into real impact with heart, hustle, and humility."
+
+---
