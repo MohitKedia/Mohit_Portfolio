@@ -83,6 +83,7 @@ Tech: Excel, Tableau
 
 #### [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/95f779aa-a657-47f4-991e-6a35ed329b49/406ea07dc9789e906aaa?experience=power-bi)
 > Analyzed CTR, ROI, Conversion Rate, CPL, CPA using Donut chart, Pie chart, Bar chart, Line chart, Heatmaps etc in Power BI Desktop
+
 Tech: Excel, Power BI 
 
 #### [Superstore Sales Analysis Dashboard](https://public.tableau.com/app/profile/mohit.kedia/viz/SuperstoreSalesProject_17502499870860/Story1)
@@ -129,7 +130,6 @@ Tech: Tableau
 📧 mohitkedia5@gmail.com  
 📞 +91-7004614723
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mohitkedia5/)
-(https://img.icons8.com/color/48/000000/tableau-software.png)[Tableau Public] (https://public.tableau.com/app/profile/mohit.kedia/vizzes)
 
 
 ---
