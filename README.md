@@ -39,7 +39,7 @@ I’m a data-driven professional with a background in Data Analytics and a passi
 #### **Masai School** – *Industry Mentor and Consultant*  
 📍 Remote, India | 🗓️ Apr'2025 - Present  
 - ⭐ Received more than 4.5 ratings out of 5 in all the lectures conducted  
-- 🧑‍🏫 Mentored 50+ students, conducted live sessions on SQL, Tableau, Power BI with quizzes/polls  
+- 🧑‍🏫 Mentored 100+ students, conducted live sessions on SQL, Tableau, Power BI with quizzes/polls  
 - 🧰 Tools: SQL, Excel, Tableau, Power BI, PowerPoint, ChatGPT
 
 #### **Self Employed** – *Freelance Educational Content Creator*  
@@ -80,6 +80,10 @@ I’m a data-driven professional with a background in Data Analytics and a passi
 #### [Marketing Campaign Performance Dashboard](https://github.com/MohitKedia/Marketing-Campaign-Performance)
 > Analyzed CTR, ROI, Conversion Rate, CPL, CPA using Tableau with parameter tools.  
 Tech: Excel, Tableau
+
+#### [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/95f779aa-a657-47f4-991e-6a35ed329b49/406ea07dc9789e906aaa?experience=power-bi)
+> Analyzed CTR, ROI, Conversion Rate, CPL, CPA using Donut chart, Pie chart, Bar chart, Line chart, Heatmaps etc in Power BI Desktop 
+Tech: Excel, Power BI 
 
 #### [Superstore Sales Analysis Dashboard](https://public.tableau.com/app/profile/mohit.kedia/viz/SuperstoreSalesProject_17502499870860/Story1)
 > Used dual-axis charts, treemaps, moving average, LODs, Z-score, and cohort analysis.  
@@ -123,10 +127,13 @@ Tech: Tableau
 ### 📫 Connect with Me
 
 📧 mohitkedia5@gmail.com  
+📞 +91-7004614723
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mohitkedia5/)
+(https://img.icons8.com/color/48/000000/tableau-software.png)[Tableau Public] (https://public.tableau.com/app/profile/mohit.kedia/vizzes)
+
 
 ---
 
-> ⚡ "Turning raw data into real impact with heart, hustle, and humility."
+> ⚡ "Turning raw data into real business story and creating impact with heart, hustle, and humility."
 
 ---
