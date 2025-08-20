@@ -82,7 +82,7 @@ I’m a data-driven professional with a background in Data Analytics and a passi
 Tech: Excel, Tableau
 
 #### [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/95f779aa-a657-47f4-991e-6a35ed329b49/406ea07dc9789e906aaa?experience=power-bi)
-> Analyzed CTR, ROI, Conversion Rate, CPL, CPA using Donut chart, Pie chart, Bar chart, Line chart, Heatmaps etc in Power BI Desktop 
+> Analyzed CTR, ROI, Conversion Rate, CPL, CPA using Donut chart, Pie chart, Bar chart, Line chart, Heatmaps etc in Power BI Desktop
 Tech: Excel, Power BI 
 
 #### [Superstore Sales Analysis Dashboard](https://public.tableau.com/app/profile/mohit.kedia/viz/SuperstoreSalesProject_17502499870860/Story1)
