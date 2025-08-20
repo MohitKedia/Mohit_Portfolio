@@ -97,7 +97,7 @@ Tech: SQL, Excel
 > Used SQL + Tableau to improve live session completion rates from 50% to 80%.  
 Tech: Excel, SQL, Tableau
 
-#### [ICC T20 World Cup 2024 Analysis](https://github.com/MohitKedia/ICC-T20-WORLD-CUP-2024-ANALYSIS)
+#### [ICC T20 World Cup 2024 Analysis](https://public.tableau.com/app/profile/mohit.kedia/viz/ICCWorldCupT202024Analysis/Story1)
 > Used Tableau to rank teams and players across performance metrics.  
 Tech: Tableau
 
