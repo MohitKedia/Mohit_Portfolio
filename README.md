@@ -16,10 +16,10 @@
   <a href="https://public.tableau.com/app/profile/mohit.kedia" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-Public-orange?logo=tableau&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1NGSwekFJzOJeTLWCv2pMd0lFXsmWiKBt/preview" target="_blank"> 
+  <a href="https://drive.google.com/file/d/12CPHQ89v0cBuPaNhAT1ESvPc3jEbGy2W/preview" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Preview-green" />
   </a>
-  <a href="https://drive.google.com/uc?export=download&id=1NGSwekFJzOJeTLWCv2pMd0lFXsmWiKBt" target="_blank">
+  <a href="https://drive.google.com/uc?export=download&id=12CPHQ89v0cBuPaNhAT1ESvPc3jEbGy2W" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue" />
   </a>
 </p>
