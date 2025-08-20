@@ -10,10 +10,10 @@
   <a href="mailto:mohitkedia5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1sUaBbsjzltkensDPKMLhwcGF5-Kup6ja/preview" target="_blank">
+  <a href="https://drive.google.com/file/d/1NGSwekFJzOJeTLWCv2pMd0lFXsmWiKBt/preview" target="_blank"> 
     <img src="https://img.shields.io/badge/Resume-Preview-green" />
   </a>
-  <a href="https://drive.google.com/uc?export=download&id=1sUaBbsjzltkensDPKMLhwcGF5-Kup6ja" target="_blank">
+  <a href="https://drive.google.com/uc?export=download&id=1NGSwekFJzOJeTLWCv2pMd0lFXsmWiKBt" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue" />
   </a>
 </p>
@@ -83,7 +83,6 @@ Tech: Excel, Tableau
 
 #### [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/95f779aa-a657-47f4-991e-6a35ed329b49/406ea07dc9789e906aaa?experience=power-bi)
 > Analyzed CTR, ROI, Conversion Rate, CPL, CPA using Donut chart, Pie chart, Bar chart, Line chart, Heatmaps etc in Power BI Desktop
-
 Tech: Excel, Power BI 
 
 #### [Superstore Sales Analysis Dashboard](https://public.tableau.com/app/profile/mohit.kedia/viz/SuperstoreSalesProject_17502499870860/Story1)
