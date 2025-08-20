@@ -10,6 +10,12 @@
   <a href="mailto:mohitkedia5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@learnanalyticswithMohit" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/mohit.kedia" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-Public-orange?logo=tableau&logoColor=white" />
+  </a>
   <a href="https://drive.google.com/file/d/1NGSwekFJzOJeTLWCv2pMd0lFXsmWiKBt/preview" target="_blank"> 
     <img src="https://img.shields.io/badge/Resume-Preview-green" />
   </a>
